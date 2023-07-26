@@ -7,7 +7,7 @@
  * @s2: input value
  * Return: s1[z] - s2[z]
  */
- 
+
 int _strcmp(const char *s1, const char *s2)
 {
 	int z;
